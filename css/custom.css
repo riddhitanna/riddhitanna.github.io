@@ -13,3 +13,8 @@ border-radius: 10px;
 .card{
 	border: none;
 }
+
+.bg-tag{
+	background-color: dimgray;
+	border-radius: 10px;
+}
